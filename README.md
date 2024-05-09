@@ -1,0 +1,11 @@
+- 👋 Hi, I'm @TentandooProgramar
+- 👀 I'm interested in game creation.
+- 🌱 I'm currently learning C++.
+- 📫 How to contact me, I don't know.
+- ⚡ Fun fact: I'm Brazilian and I'm learning programming.
+
+- 👋 Olá, sou @TentandooProgramar
+- 👀 Estou interessado em criação de jogos.
+- 🌱 Atualmente estou aprendendo C++.
+- 📫 Como entrar em contato comigo, eu não sei.
+- ⚡ Curiosidade: Sou Brasileiro e estou aprendendo programação.
